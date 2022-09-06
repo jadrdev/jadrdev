@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, React Native, JavaScript**
 
-- 📝 I regularly write articles on [https://jadrdev.code.blog/](https://jadrdev.code.blog/)
+- 📝 I regularly write articles on [https://jadrdev.com/](https://jadrdev.com/)
 
 - 💬 Ask me about **react, react native, javascript, ios, android, apple**
 
