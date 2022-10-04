@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jadrdevcm@gmail.com**
 
-- ⚡ Fun fact **Music & Videomes**
+- ⚡ Fun fact **Music & Videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
