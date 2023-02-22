@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadrdev&label=Profile%20views&color=0e75b6&style=flat" alt="jadrdev" /> </p>
 
-- 🔭 I’m currently working on **Hiberus**
+- 🔭 I´m currently looking for a job as a Mobile Developer
 
 - 🌱 I’m currently learning **React, React Native, JavaScript**
 
