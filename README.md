@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadrdev&label=Profile%20views&color=0e75b6&style=flat" alt="jadrdev" /> </p>
 
-- 🔭 I´m currently in Velocitech.
-
-- 🌱 I’m currently learning **React, React Native, JavaScript**
+- 🌱 I’m currently learning **React, React Native, Flutter, JavaScript**
 
 - 📝 I regularly write articles on [https://jadrdev.com/](https://jadrdev.com/)
 
-- 💬 Ask me about **react, react native, javascript, ios, android, apple**
+- 💬 Ask me about **react, react native, javascript, ios, android, apple, flutter**
 
 - 📫 How to reach me **jadrdevcm@gmail.com**
 
